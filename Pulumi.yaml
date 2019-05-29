@@ -1,0 +1,3 @@
+name: pulumi-emr-repro
+runtime: nodejs
+description: Minimal repro case of issues with Pulumi and AWS EMR
